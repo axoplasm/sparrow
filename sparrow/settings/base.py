@@ -190,3 +190,5 @@ WAGTAILDOCS_EXTENSIONS = [
     "xlsx",
     "zip",
 ]
+WAGTAILIMAGES_EXTENSIONS = ["gif", "jpg", "jpeg", "png", "heic",]
+
