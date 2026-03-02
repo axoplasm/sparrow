@@ -1,0 +1,57 @@
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+
+# Vim generated files #
+######################
+*.un~
+
+# editor tmp files #
+####################
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.idea/*
+.ycm_extra_conf.py
+.nova
+
+# bytecode #
+############
+*.pyc
+
+# environment #
+###############
+env
+.env
+Env
+.Env
+venv
+
+# Static Files #
+################
+/static/CACHE/
+/static
+
+# Uploaded Media #
+##################
+/media
+/media/*
+
+# development database #
+########################
+*.sqlite3
+*.sqlite3.bak
+
+# data backups #
+################
+/data
+/data/*
+
+# production settings #
+#######################
+local.py
